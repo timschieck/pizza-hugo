@@ -1,0 +1,5 @@
+baseURL = 'https://pizza.jacensolo.com/'
+languageCode = 'en-us'
+title = 'The Pizza Oracle'
+theme = 'hugo-book'
+
