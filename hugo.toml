@@ -1,5 +1,8 @@
 baseURL = 'https://pizza.jacensolo.com/'
 languageCode = 'en-us'
-title = 'The Pizza Oracle'
+title = 'The Pizza Reference'
 theme = 'hugo-book'
+enableGitInfo = true
 
+[params]
+    BookSection = "*"
