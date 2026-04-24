@@ -1,4 +1,4 @@
-baseURL = 'https://timschieck.github.io/pizza-hugo/'
+baseURL = 'https://pizza.jacensolo.com'
 languageCode = 'en-us'
 title = 'The Pizza Reference'
 theme = 'hugo-book'
